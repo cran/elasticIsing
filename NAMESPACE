@@ -1,0 +1,11 @@
+export(elasticIsing, costPlots, optimalGraph)
+import(magrittr,cvTools,reshape2,glmnet,qgraph)
+S3method(plot, elasticIsing)
+#importFrom(akima,"interp")
+
+ importFrom("grDevices", "dev.off", "pdf", "terrain.colors")
+  importFrom("graphics", "persp")
+  importFrom("methods", "is")
+  importFrom("stats", "coef")
+  importFrom("utils", "setTxtProgressBar", "txtProgressBar")
+  importFrom("utils", "installed.packages")

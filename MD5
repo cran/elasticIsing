@@ -1,0 +1,14 @@
+58f3646ccf50b1f7761e54f2e281ad09 *DESCRIPTION
+3e5e673a8a186397948a1f46e0773e63 *NAMESPACE
+c87f3efb84a6c8eb9a8fd3a5fc64682e *R/costPlots.R
+8cbaa2c4539e5f4d7cfc8426f3905639 *R/elasticIsing.R
+a0309b38af04ac0365a98b8f60c54ed1 *R/optimalGraph.R
+3a9cde9a55f2027d39d779e357e7d9e4 *R/plotMethod.R
+887474d0f38ab0c3deb6461186245f86 *R/positiveGraph.R
+96f9d94253ae2da68bd500ccd38f3974 *R/prediction.R
+8e878ca6e62bc94869ac46313cc32326 *R/zzz.R
+ff547ababc85108875b8e8f94239d4dd *inst/COPYING
+753e21cab7991bdb3791763809870fc5 *inst/COPYRIGHTS
+c297f57d0168984bd37be1a3868b7bd4 *man/costPlots.Rd
+037aa9da7af97d3e63651a39c9065560 *man/elasticIsing.Rd
+345cfe0967d370c23d3ff6e2df7f31d3 *man/optimalGraph.Rd
